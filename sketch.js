@@ -2,7 +2,7 @@ let movies = [
 
   { title: "Toy Story", age: "livre", description: "Uma aventura animada com brinquedos que ganham vida." },
 
-  { title: "The Lion King", age: "livre", description: "A história épica de Simba, um jovem leão." },
+  { title: "The Lion King", age: "14+", description: "A história épica de Simba, um jovem leão." },
 
   { title: "Deadpool", age: "18+", description: "Um anti-herói que quebra a quarta parede em sua luta contra vilões." },
 
